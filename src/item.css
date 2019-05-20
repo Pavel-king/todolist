@@ -1,0 +1,8 @@
+.item:nth-child(2n){
+    background: antiquewhite;
+    color: white;
+}
+.item:nth-child(2n+1){
+    background: khaki;
+    color: white;
+}
